@@ -37,11 +37,5 @@ Intended Rules:
 - For the Battle Mode Nitro Course and Retro Course checks, play either three Nitro or Retro courses back to back, if you/your team have/has the most points by the third battle, you win
 - If you set 'enable_customisables' to 'false' in your yaml, you can use any character, kart, tire, and glider whenever you feel like it. If you feel like it, you can restrict yourself to a specific combination until you get another Coin, which unlocks a random customisable. How you would randomise this is up to you.
 
-Two APworlds???
-Mario Kart 7: all Trophys are completely randomized
-Mario Kart 7 Local: Trophys are always locked behind getting 1st in a Grand Prix cup, defeating all Staff Ghosts in a cup, and winning three battle courses consecutively
-
 Custom Goal Requirements:
-- I don't know how to change the required amount of Trophys to win, so you'll have to change them yourself, you can find them at the bottom of items.json
-- In Mario Kart 7 Local's items.json you can find extra Trophys called "Afloat Trophy", these Trophys are completely randomized, but they are currently set to '0', feel free to add a custom amount
-- 
+- I don't know how to change the required amount of Trophys to win, so you'll have to change them yourself, you can find the requirments to beat the game at the bottom of locations.json
