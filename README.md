@@ -18,7 +18,7 @@ Shuffled Items:
 - Karts
 - Tires
 - Gliders
-- Trophys. Collect them all to win!
+- Trophys. Collect them all to win! Includes Grand Prix Trophy, Time Trial Trophy, Battle Mode Trophy, Afloat Grand Prix Trophy, Afloat Time Trial Trophy, Afloat Battle Mode Trophy, Grand Prix Trophy EX, Time Trial Trophy EX, Battle Mode Trophy EX, Afloat Grand Prix Trophy EX, Afloat Time Trial Trophy EX, and Afloat Battle Mode Trophy EX. Despite all the different names, they all serve the same purpose as this game's macguffin item.
 - Coins (they do nothing)
 
 Checks:
