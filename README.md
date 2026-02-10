@@ -7,7 +7,6 @@ Requirements:
 - Archipelago 0.6.5 or later
 - Manual Client
 - Mario Kart 7 with a save file which has all cups, characters, karts, tires, and gliders unlocked (yes, even the gold parts) (if necessary, it is quite easy to find a completed save file online)
-- Always use the YAMLs provided in this Github repo, the one made by the APlauncher does not have descriptions for all the settings because I don't know how to do that
 
 Shuffled Items:
 - Mode Unlocks (Grand Prix, Time Trials, Balloon Battle, and Coin Runners)
@@ -28,7 +27,7 @@ Checks:
 - Defeating all Time Trial Staff Ghosts in a cup
 - Winning individual Battle courses in Balloon Battle and Coin Runners both in a FFA or Team battle
 - Getting the most points across three consecutive battles in the Nitro and Retro courses in Balloon Battle and Coin Runners, both in FFA or Team battles
-- Winning individual races and battles with specific characters, karts, tires, and/or gliders
+- Winning with specific characters, karts, tires, and/or gliders, now on ANY track/course
 
 Intended Rules:
 - You are not allowed to play on/as specific modes, cups, courses, characters, karts, tires, and gliders until they are unlocked
